@@ -2,17 +2,18 @@
 .hero {
     background-image: url('image1.jpg');
     background-size: cover;
-    background-position: center;
+    /* background-position: center; */
     /* color: #fff; */
-    text-align: center;
-    /* height: 93vh; */
-    padding: 100px 0;
-    overflow: hidden;
+    /* text-align: center; */
+    height: 100vh;
+    padding: 150px 0;
+    /* overflow: hidden; */
   }
   
   .hero-content {
     max-width: 800px;
-    margin: 150px auto;
+    /* margin: 110px auto; */
+    margin-left:50px;
     color:beige;
   }
   
@@ -40,4 +41,20 @@
   .hero-button:hover {
     background-color: #e2b607; /* Change to desired hover color */
   }
-  
+  @media screen and (max-width:800px) {
+    .hero-content {
+      max-width: 800px;
+      /* margin: 110px auto; */
+      margin-left:10px;
+      color:beige;
+    }
+      .hero-title{
+        font-size: 30px;
+      }
+      .hero-description{
+        font-size: 20px;
+      }
+      .hero-button{
+        font-size: 12px;
+      }
+  }

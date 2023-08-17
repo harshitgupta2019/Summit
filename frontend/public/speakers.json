@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "John Doerr",
+      "title": "American Investor",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "image": "speaker1.jpg",
+      "Profile":"https://en.wikipedia.org/wiki/John_Doerr"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "title": "Environmental Scientist and Lawyer",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "image": "speaker2.jpg",
+      "Profile":"https://www.magdalenchambers.co.uk/barrister-details/jane-smith/"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "title": "Interim Chief Executive Officer of Herbalife International",
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "image": "speaker3.jpg",
+      "Profile":"https://en.wikipedia.org/wiki/Michael_O._Johnson"
+    }
+    ,{
+        "id": 4,
+        "name": "Vijay Mohan",
+        "title": "CEO of AgriTech Inc.",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "image": "speaker4.jpg",
+        "Profile":"https://in.linkedin.com/in/vijay-mohan-26314716b"
+      },
+      {
+        "id": 5,
+        "name": "Dr. Sudeep Marwaha",
+        "title": "Head of AEIS",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "image": "speaker5.jpg",
+        "Profile":"https://aeis.icar.gov.in/"
+      },
+      {
+        "id": 6,
+        "name": "Rishi Narayan Singh",
+        "title": "Agriculture and Food Value Chain Expert at Nippon Koei India Private Limited",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "image": "speaker6.jpg",
+        "Profile":"https://in.linkedin.com/in/rishi-narayan-singh-a0a93255"
+      }
+  ]
+  

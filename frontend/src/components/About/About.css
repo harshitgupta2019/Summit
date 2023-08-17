@@ -1,0 +1,25 @@
+/* AboutPage styling */
+.about-section {
+    background-color: #f9f9f9;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .about-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .about-title {
+    font-size: 5vw;
+    font-weight: 700;
+    line-height: .9;
+    /* margin-bottom: 20px; */
+    margin: 2rem;
+  }
+  
+  .about-description {
+    font-size: 1.5rem;
+    line-height: 1.3;
+  }
+  

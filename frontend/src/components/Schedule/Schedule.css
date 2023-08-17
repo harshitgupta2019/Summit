@@ -1,0 +1,60 @@
+/* SchedulePage styling */
+.schedule-section {
+    background-color: #f9f9f9;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .schedule-container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .schedule-title {
+    font-size: 40px;
+    margin-bottom: 60px;
+  }
+  
+  .schedule-list {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 30px;
+  }
+  
+  .schedule-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .schedule-time {
+    font-size: 18px;
+    width: 150px;
+    margin-right: 150px;
+  }
+  
+  .schedule-details {
+    text-align: left;
+  }
+  
+  .schedule-event {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .schedule-location {
+    font-size: 14px;
+    color: #888;
+  }
+  .schedule-time-title{
+    font-size: 28px;
+    width: 150px;
+    margin-right: 150px;
+  }
+  .schedule-event-title {
+    font-size: 28px;
+    margin-bottom: 5px;
+
+  }
+  

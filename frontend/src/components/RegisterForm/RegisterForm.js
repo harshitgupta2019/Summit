@@ -40,7 +40,7 @@ const RegisterForm = () => {
       else{
 
       
-      const response = await axios.post('http://localhost:5000/register', formData);
+      const response = await axios.post('https://summit-seven.vercel.app/register', formData);
 
       if (response.status === 201) {
         setIsSubmitted(true);

@@ -9,7 +9,13 @@ const dotenv=require('dotenv');
 // Set up body-parser middleware
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
-app.use(cors());
+app.use(cors(
+  {
+    origin: ["https://summit-6kur.vercel.app"],
+    methods: ["POST","GET"],
+    credentials: true
+  }
+));
 dotenv.config();
 // Connect to MongoDB
 mongoose.connect(process.env.URL, {
